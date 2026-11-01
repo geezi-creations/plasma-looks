@@ -1,0 +1,285 @@
+{
+ "pack": "week-01",
+ "title": "Week 1 · Neon Garden + Thanksgiving, Christmas & New Year's",
+ "issued": "2026-11-01T00:29:22Z",
+ "looks": [
+  {
+   "id": "velvet-orbit",
+   "name": "Velvet Orbit",
+   "season": null,
+   "blurb": "Silky orbiting petals that breathe with the bass",
+   "overlay": "snip:lp-velvet-orbit",
+   "gateOk": true
+  },
+  {
+   "id": "prism-rain",
+   "name": "Prism Rain",
+   "season": null,
+   "blurb": "Falling spectral threads",
+   "overlay": "snip:lp-prism-rain",
+   "gateOk": true
+  },
+  {
+   "id": "moire-bloom",
+   "name": "Moiré Bloom",
+   "season": null,
+   "blurb": "Interfering ring fields drifting apart and together",
+   "overlay": "snip:lp-moire-bloom",
+   "gateOk": true
+  },
+  {
+   "id": "liquid-glyph",
+   "name": "Liquid Glyph",
+   "season": null,
+   "blurb": "Domain-warped ink that never repeats",
+   "overlay": "snip:lp-liquid-glyph",
+   "gateOk": true
+  },
+  {
+   "id": "hex-lantern",
+   "name": "Hex Lantern",
+   "season": null,
+   "blurb": "A honeycomb of glowing cells lit by the beat",
+   "overlay": "snip:lp-hex-lantern",
+   "gateOk": true
+  },
+  {
+   "id": "aurora-veil",
+   "name": "Aurora Veil",
+   "season": null,
+   "blurb": "Northern-lights curtains over the plasma",
+   "overlay": "snip:lp-aurora-veil",
+   "gateOk": true
+  },
+  {
+   "id": "spiral-choir",
+   "name": "Spiral Choir",
+   "season": null,
+   "blurb": "Log spirals singing outwards",
+   "overlay": "snip:lp-spiral-choir",
+   "gateOk": true
+  },
+  {
+   "id": "starfield-bloom",
+   "name": "Starfield Bloom",
+   "season": null,
+   "blurb": "Twinkling sparks over a slow nebula",
+   "overlay": "snip:lp-starfield-bloom",
+   "gateOk": true
+  },
+  {
+   "id": "ribbon-lattice",
+   "name": "Ribbon Lattice",
+   "season": null,
+   "blurb": "Woven light ribbons swaying to the groove",
+   "overlay": "snip:lp-ribbon-lattice",
+   "gateOk": true
+  },
+  {
+   "id": "ember-mandala",
+   "name": "Ember Mandala",
+   "season": null,
+   "blurb": "Twelve-fold embers turning slowly",
+   "overlay": "snip:lp-ember-mandala",
+   "gateOk": true
+  },
+  {
+   "id": "glass-ripple",
+   "name": "Glass Ripple",
+   "season": null,
+   "blurb": "Bass drops into a pane of glass",
+   "overlay": "snip:lp-glass-ripple",
+   "gateOk": true
+  },
+  {
+   "id": "midnight-ink",
+   "name": "Midnight Ink",
+   "season": null,
+   "blurb": "Pure parameters, no shader: deep blue ink with a gold edge",
+   "overlay": "",
+   "gateOk": null
+  },
+  {
+   "id": "than-harvest-swirl",
+   "name": "Harvest Swirl",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Warm amber and cranberry swirl, slow and cozy",
+   "overlay": "snip:lp-than-harvest-swirl",
+   "gateOk": true
+  },
+  {
+   "id": "than-falling-leaves",
+   "name": "Falling Leaves",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Maple-coloured leaves drifting and tumbling",
+   "overlay": "snip:lp-than-falling-leaves",
+   "gateOk": true
+  },
+  {
+   "id": "than-hearth-embers",
+   "name": "Hearth Embers",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Glowing embers rising from a fireside",
+   "overlay": "snip:lp-than-hearth-embers",
+   "gateOk": true
+  },
+  {
+   "id": "chri-snowflake-mandala",
+   "name": "Snowflake Mandala",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Six-fold crystal mandala that grows with the bass",
+   "overlay": "snip:lp-chri-snowflake-mandala",
+   "gateOk": true
+  },
+  {
+   "id": "chri-ornament-bokeh",
+   "name": "Ornament Bokeh",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Soft red, green and gold tree lights pulsing to the beat",
+   "overlay": "snip:lp-chri-ornament-bokeh",
+   "gateOk": true
+  },
+  {
+   "id": "chri-aurora-snowfall",
+   "name": "Aurora Snowfall",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Northern lights rippling over gentle snowfall",
+   "overlay": "snip:lp-chri-aurora-snowfall",
+   "gateOk": true
+  },
+  {
+   "id": "chri-candy-cane-tunnel",
+   "name": "Candy Cane Tunnel",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Red-and-white spiral tunnel that speeds up with the beat",
+   "overlay": "snip:lp-chri-candy-cane-tunnel",
+   "gateOk": true
+  },
+  {
+   "id": "chri-tree-light-burst",
+   "name": "Tree Light Burst",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Twinkling tree lights that explode outward on every drop",
+   "overlay": "snip:lp-chri-tree-light-burst",
+   "gateOk": true
+  },
+  {
+   "id": "chri-gilded-star",
+   "name": "Gilded Star",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "A golden tree-top star with slowly turning rays",
+   "overlay": "snip:lp-chri-gilded-star",
+   "gateOk": true
+  },
+  {
+   "id": "chri-frosted-pine",
+   "name": "Frosted Pine",
+   "season": {
+    "id": "christmas",
+    "name": "Christmas",
+    "from": "12-01",
+    "to": "12-26"
+   },
+   "blurb": "Layered evergreen silhouettes under falling snow",
+   "overlay": "snip:lp-chri-frosted-pine",
+   "gateOk": true
+  },
+  {
+   "id": "nye-countdown-burst",
+   "name": "Countdown Burst",
+   "season": {
+    "id": "nye",
+    "name": "New Year's Eve",
+    "from": "12-27",
+    "to": "01-01"
+   },
+   "blurb": "Ten rings count in, then a golden finale burst",
+   "overlay": "snip:lp-nye-countdown-burst",
+   "gateOk": true
+  },
+  {
+   "id": "nye-champagne-rise",
+   "name": "Champagne Rise",
+   "season": {
+    "id": "nye",
+    "name": "New Year's Eve",
+    "from": "12-27",
+    "to": "01-01"
+   },
+   "blurb": "Golden bubbles streaming upward",
+   "overlay": "snip:lp-nye-champagne-rise",
+   "gateOk": true
+  },
+  {
+   "id": "nye-midnight-fireworks",
+   "name": "Midnight Fireworks",
+   "season": {
+    "id": "nye",
+    "name": "New Year's Eve",
+    "from": "12-27",
+    "to": "01-01"
+   },
+   "blurb": "Firework blooms over the skyline at midnight",
+   "overlay": "snip:lp-nye-midnight-fireworks",
+   "gateOk": true
+  },
+  {
+   "id": "nye-gold-confetti",
+   "name": "Gold Confetti",
+   "season": {
+    "id": "nye",
+    "name": "New Year's Eve",
+    "from": "12-27",
+    "to": "01-01"
+   },
+   "blurb": "Spinning confetti showers on every drop",
+   "overlay": "snip:lp-nye-gold-confetti",
+   "gateOk": true
+  }
+ ]
+}

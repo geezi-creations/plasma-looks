@@ -1,0 +1,126 @@
+{
+ "pack": "week-02",
+ "title": "Week 2 · Thanksgiving",
+ "issued": "2026-11-07T00:58:35Z",
+ "looks": [
+  {
+   "id": "prism-stardust-w2",
+   "name": "Prism Stardust",
+   "season": null,
+   "blurb": "Prism Stardust in rose quartz colours",
+   "overlay": "snip:lp-prism-stardust-w2",
+   "gateOk": true
+  },
+  {
+   "id": "ultra-spiral-w2",
+   "name": "Ultra Spiral",
+   "season": null,
+   "blurb": "Ultra Spiral in forest glow colours",
+   "overlay": "snip:lp-ultra-spiral-w2",
+   "gateOk": true
+  },
+  {
+   "id": "static-moire-w2",
+   "name": "Static Moire",
+   "season": null,
+   "blurb": "Static Moire in neon lagoon colours",
+   "overlay": "snip:lp-static-moire-w2",
+   "gateOk": true
+  },
+  {
+   "id": "midnight-ribbons-w2",
+   "name": "Midnight Ribbons",
+   "season": null,
+   "blurb": "Midnight Ribbons in opal colours",
+   "overlay": "snip:lp-midnight-ribbons-w2",
+   "gateOk": true
+  },
+  {
+   "id": "electric-bokeh-w2",
+   "name": "Electric Bokeh",
+   "season": null,
+   "blurb": "Electric Bokeh in citrus pop colours",
+   "overlay": "snip:lp-electric-bokeh-w2",
+   "gateOk": true
+  },
+  {
+   "id": "midnight-tunnel-w2",
+   "name": "Midnight Tunnel",
+   "season": null,
+   "blurb": "Midnight Tunnel in magma colours",
+   "overlay": "snip:lp-midnight-tunnel-w2",
+   "gateOk": true
+  },
+  {
+   "id": "mellow-plasma-w2",
+   "name": "Mellow Plasma",
+   "season": null,
+   "blurb": "Mellow Plasma in rose quartz colours",
+   "overlay": "snip:lp-mellow-plasma-w2",
+   "gateOk": true
+  },
+  {
+   "id": "cosmic-cells-w2",
+   "name": "Cosmic Cells",
+   "season": null,
+   "blurb": "Cosmic Cells in mint frost colours",
+   "overlay": "snip:lp-cosmic-cells-w2",
+   "gateOk": true
+  },
+  {
+   "id": "cosmic-flow-w2",
+   "name": "Cosmic Flow",
+   "season": null,
+   "blurb": "Cosmic Flow in sunset drive colours",
+   "overlay": "snip:lp-cosmic-flow-w2",
+   "gateOk": true
+  },
+  {
+   "id": "hyper-hive-w2",
+   "name": "Hyper Hive",
+   "season": null,
+   "blurb": "Hyper Hive in neon lagoon colours",
+   "overlay": "snip:lp-hyper-hive-w2",
+   "gateOk": true
+  },
+  {
+   "id": "than-harvest-swirl",
+   "name": "Harvest Swirl",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Warm amber and cranberry swirl, slow and cozy",
+   "overlay": "snip:lp-than-harvest-swirl",
+   "gateOk": true
+  },
+  {
+   "id": "than-falling-leaves",
+   "name": "Falling Leaves",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Maple-coloured leaves drifting and tumbling",
+   "overlay": "snip:lp-than-falling-leaves",
+   "gateOk": true
+  },
+  {
+   "id": "than-hearth-embers",
+   "name": "Hearth Embers",
+   "season": {
+    "id": "thanksgiving",
+    "name": "Thanksgiving",
+    "from": "11-16",
+    "to": "11-29"
+   },
+   "blurb": "Glowing embers rising from a fireside",
+   "overlay": "snip:lp-than-hearth-embers",
+   "gateOk": true
+  }
+ ]
+}
